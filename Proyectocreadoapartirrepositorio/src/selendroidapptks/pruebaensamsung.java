@@ -1,3 +1,7 @@
+/*
+codigo especifico para movil con 6.0.1
+*/
+
 package selendroidapptks;
 
 import io.appium.java_client.android.AndroidDriver;
