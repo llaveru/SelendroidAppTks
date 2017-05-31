@@ -1,5 +1,6 @@
 /*
 codigo especifico para movil con 6.0.1
+comentario modificado desde gh.
 */
 
 package selendroidapptks;
